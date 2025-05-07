@@ -1,5 +1,4 @@
-# Módulos C++ 00–05 – 42 School
-
+# Módulos C++ 00–05 
 > Esta serie de módulos forma parte del proyecto de introducción a C++ en el programa de la escuela 42. Cada módulo introduce nuevos conceptos del lenguaje, desde la programación orientada a objetos básica hasta temas más avanzados como sobrecarga de operadores, herencia y manejo de excepciones.
 
 ---
